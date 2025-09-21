@@ -35,7 +35,7 @@ Hi, I'm **Jihyeon An**
 
 ### 🏆 Prize
 ---
-- Capstone Design program 1st Place at Summer School at Saarland University
+- 1st Place 🥇, Capstone Design program at Summer School at Saarland University
 - 1st Place 🥇, SOPT AppJam — SOPT
 - 1st Place 🥇, Intellectual Property Creation & Patent Competition
 
