@@ -10,13 +10,13 @@ Hi, I'm **Jihyeon An**
 
 ### 💻 Experience  
 ---  
-- **Open Source Contribution Academy (OSSCA)** (2025.07 ~ now)
+- **[Open Source Contribution Academy (OSSCA)](https://www.oss.kr/contribution_academy)** (2025.07 ~ now)
 - **KHU SW Membership** – Open Source Part (2025.03 ~ now)
-- **ICT Hanium** Dream-Up Project (2025.04 ~ now)
-- Backend Developer, **Google Developer Student Clubs** (GDSC) KHU (2024.09 ~ 2025.06)
-- Backend Developer, **Goormthon 3rd**, KHU (2024.08 ~ 2024.12)
-- Android Developer, **SOPT** 32nd (2023.03 ~ 2023.06)
-- Android Developer, **UMC** 3rd, KHU (2022.09 ~ 2023.02)
+- **[ICT Hanium](https://www.hanium.or.kr/portal/index.do)** Dream-Up Project (2025.04 ~ now)
+- Backend Developer, **[Google Developer Student Clubs](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus?pli=1)** (GDSC) KHU (2024.09 ~ 2025.06)
+- Backend Developer, **[Goormthon 3rd](https://9oormthon.university/)**, KHU (2024.08 ~ 2024.12)
+- Android Developer, **[SOPT](https://www.sopt.org/)** 32nd (2023.03 ~ 2023.06)
+- Android Developer, **[UMC](https://umc.makeus.in/)** 3rd, KHU (2022.09 ~ 2023.02)
 
 
 
@@ -38,6 +38,7 @@ Hi, I'm **Jihyeon An**
 - 1st Place 🥇, Capstone Design program at Summer School at Saarland University
 - 1st Place 🥇, SOPT AppJam — SOPT
 - 1st Place 🥇, Intellectual Property Creation & Patent Competition
+- Honorable Mention 🏅, Hanium ICT Dream-Up Project
 
 
 
