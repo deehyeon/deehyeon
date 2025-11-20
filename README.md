@@ -14,7 +14,6 @@ Hi, I'm **Jihyeon An**
 - **KHU SW Membership** – Open Source Part (2025.03 ~ now)
 - **[ICT Hanium](https://www.hanium.or.kr/portal/index.do)** Dream-Up Project (2025.04 ~ now)
 - Backend Developer, **[Google Developer Student Clubs](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus?pli=1)** (GDSC) KHU (2024.09 ~ 2025.06)
-- Backend Developer, **[Goormthon 3rd](https://9oormthon.university/)**, KHU (2024.08 ~ 2024.12)
 - Android Developer, **[SOPT](https://www.sopt.org/)** 32nd (2023.03 ~ 2023.06)
 - Android Developer, **[UMC](https://umc.makeus.in/)** 3rd, KHU (2022.09 ~ 2023.02)
 
